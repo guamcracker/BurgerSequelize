@@ -25,3 +25,5 @@ Using the Sequelize ORM, the app has 3 basic CRUD functions...
     re-routes the webpage back to /burger, where the burger is now ready to be eaten column
 
 [Demo Here](guamcracker-sequelize-burger)
+
+
