@@ -23,6 +23,10 @@ Using the Sequelize ORM, the app has 3 basic CRUD functions...
 
     hits a /burger/create route in Express to insert a new burger into the MySQL database (via Sequelize ORM)
     re-routes the webpage back to /burger, where the burger is now ready to be eaten column
+    
+    
+    
+ Created by Matthew Paulino with help from UCI Code Boot Camp and Justin Leveck:
 
 [Demo Here](https://guamcracker-sequelize-burger.herokuapp.com)
 
